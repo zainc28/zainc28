@@ -1,4 +1,4 @@
-Student but more than just in the traditional sense 
+Student but more than just in the traditional sense 💯😎
 
 ## What I'm About
 
