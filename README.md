@@ -1,16 +1,14 @@
-## Hi there 👋
+Student but more than just in the traditional sense 
 
-<!--
-**zainc28/zainc28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm About
 
-Here are some ideas to get you started:
+I'm really interest in using code to solve real-world problems, code that gets used. I care about impact over resume padding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Rebuilding my GitHub Right Now** — I've taken down some older projects to make room for better work. Stay tuned for what's coming next :)
+
+## Get in Touch
+
+- **Email**: zainchr28@gmail.com
+
+---
