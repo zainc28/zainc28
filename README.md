@@ -1,9 +1,12 @@
-I've taken down some older projects to make room for better work
+# [hi im zain](https://zainchr.netlify.app)
 
-## Get in Touch
+- undergraduate Computer Science major @ UofA interested in systems, app development, and AI
+- **Most Recent Project**: Maestro — XR tennis coach for Meta Quest with real-time biomechanical feedback
+- Currently building a piezoelectric-powered local LLM
+  
+Experience:
+- Co-Founder & Engineer @ **Eclipse Marketing**
 
-- **Email**: zainchr28@gmail.com
-- **Discord**: us3rblue
-- **LinkedIn**: https://www.linkedin.com/in/zain--choudhry/
-
----
+Reach me:
+- **zainchr28@gmail.com**
+- **linkedin.com/in/zainchr**
