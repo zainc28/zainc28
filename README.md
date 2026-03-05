@@ -1,5 +1,4 @@
 I've taken down some older projects to make room for better work
-stay tuned..
 
 ## Get in Touch
 
