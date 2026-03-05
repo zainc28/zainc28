@@ -1,4 +1,4 @@
-# [hi im zain](https://zainchr.netlify.app)
+# hi i'm [zain](https://zainchr.netlify.app)
 
 - undergraduate Computer Science major @ UofA interested in systems, app development, and AI
 - **Most Recent Project**: Maestro — XR tennis coach for Meta Quest with real-time biomechanical feedback
