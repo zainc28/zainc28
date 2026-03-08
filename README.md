@@ -5,7 +5,7 @@
 - Currently building a piezoelectric-powered local LLM
   
 Experience:
-- Co-Founder & Engineer @ **Eclipse Marketing**
+- Co-Founder & Software Engineer @ **Eclipse Marketing**
 
 Reach me:
 - **zainchr28@gmail.com**
